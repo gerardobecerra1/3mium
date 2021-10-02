@@ -1,0 +1,13 @@
+D:\Trabajo\3mium\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+D:\Trabajo\3mium\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+D:\Trabajo\3mium\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+D:\Trabajo\3mium\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+D:\Trabajo\3mium\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+D:\Trabajo\3mium\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+D:\Trabajo\3mium\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.AssemblyReference.cache
+D:\Trabajo\3mium\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+D:\Trabajo\3mium\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+D:\Trabajo\3mium\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+D:\Trabajo\3mium\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+D:\Trabajo\3mium\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+D:\Trabajo\3mium\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
